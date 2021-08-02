@@ -1,0 +1,20 @@
+2021-08-02 19:08:49 - PASS - LUT - Test create - LUT - Test create DVR.vi
+2021-08-02 19:08:49 - PASS -   LUT DVR created
+2021-08-02 19:08:49 - PASS - LUT - Test destroy - LUT - Test destroy DVR.vi
+2021-08-02 19:08:49 - PASS -   LUT DVR destroyed
+2021-08-02 19:08:49 - PASS - LUT - Tests empty - LUT - Test Empty.vi
+2021-08-02 19:08:49 - PASS -   Empty value
+2021-08-02 19:08:49 - PASS -   Empty name
+2021-08-02 19:08:49 - PASS -   No name found
+2021-08-02 19:08:50 - PASS - LUT - Tests Get all - LUT - Test Get All.vi
+2021-08-02 19:08:50 - PASS -   Empty initial LUT
+2021-08-02 19:08:50 - PASS -   Correct values
+2021-08-02 19:08:50 - PASS -   Correct names
+2021-08-02 19:08:50 - PASS - LUT - Tests getter - LUT - Test Getter.vi
+2021-08-02 19:08:50 - PASS -   Name found
+2021-08-02 19:08:50 - PASS -   Correct data stored
+2021-08-02 19:08:50 - PASS -   Unkown name not found
+2021-08-02 19:08:50 - PASS - LUT - Tests setter - LUT - Test Setter.vi
+2021-08-02 19:08:50 - PASS -   Name found
+2021-08-02 19:08:50 - PASS -   Correct data stored
+2021-08-02 19:08:50 - PASS -   Correct data overwritten
